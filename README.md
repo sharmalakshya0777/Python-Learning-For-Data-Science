@@ -1,5 +1,33 @@
 # Python-Learning-For-Data-Science
+
 June 1 to Present
 <br>
 My Name is Lakshya Sharma, Mca Student
-Day1 ( Variable, Data Type, String )
+
+# My Python Learning Journey
+
+## 📅 On Day 1, I did these topics:
+
+- Basic Print Statements
+- Variables & Identifiers
+- Core Data Types (int, float, str, bool, NoneType)
+- Arithmetic Operators (+, -, \*, /, %, \*\*)
+- Relational Operators (==, !=, >, <, >=, <=)
+- Assignment Operators (+=, -=, \*=, /=, %=, \*\*=)
+- Logical Operators (and, or, not)
+- Type Conversion & Explicit Type Casting
+- User Input Handling via input() and int(input())
+
+## 📅 On Day 2, I did these topics:
+
+- String Creation (Single, Double, and Triple Quotes)
+- Escape Sequences (\n, \t)
+- String Concatenation & Length Checking
+- String Indexing & Slicing ([start:end])
+- Negative Indexing in Strings
+- String Functions (endswith, startswith, replace, find, count, capitalize)
+- Core Array Concept vs Python Lists
+- List Operations & Indexing
+- List Methods (append, insert, sort, reverse)
+- Deleting from Lists (remove, pop)
+- Conditional Statements Syntax & Indentation Rules (if-elif-else)
