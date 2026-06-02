@@ -31,3 +31,12 @@ My Name is Lakshya Sharma, Mca Student
 - List Methods (append, insert, sort, reverse)
 - Deleting from Lists (remove, pop)
 - Conditional Statements Syntax & Indentation Rules (if-elif-else)
+
+## 📅 On Day 3, I did these topics:
+* Limitations of Multi-Variable Storage
+* List Creation and Data Consolidation
+* Positive Indexing in Lists (Base Reference Pointer 0)
+* List Modification Tools (`.append()` and `.insert()`)
+* Data Sorting Techniques (`.sort()` and Descending Sorting via `reverse=True`)
+* Element Deletion Methods (`.remove()` by Value and `.pop()` by Index)
+
